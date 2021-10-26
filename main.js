@@ -1,10 +1,10 @@
 const LinksSocialMidia = {
     //objeto
-    github: 'Nicoly',
-    youtube: 'Nicoly',
-    facebook: 'Nicoly',
-    instagram: 'jakeliny.gracielly',
-    twitter: 'Nicoly',
+    github: 'FelipheFaleiros',
+    youtube: '',
+    facebook: 'feliphefaleiros',
+    instagram: 'feliphefaleiros',
+    twitter: 'Feliphe001',
     apiGit: "FelipheFaleiros",
 };
   /*const github = "FelipheFaleiros"
@@ -47,7 +47,7 @@ const LinksSocialMidia = {
         userLink.href = data.html_url
         userPhoto.src = data.avatar_url
         userLogin.textContent = data.login
-        
+
       })
       //fetch -> pegara oque for respondido na url, nesse caso será um arq .json
       //then -> promessa de pegar algo 
